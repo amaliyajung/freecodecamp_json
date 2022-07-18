@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Latihan Json</title>
+
+</head>
+<body>
+	<script type="text/javascript">
+		let variabel_author =
+		{
+			"author" : "Amaliyajung"
+		}
+		console.log(variabel_author)
+	</script>
+</body>
+</html>
